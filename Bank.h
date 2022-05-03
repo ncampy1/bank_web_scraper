@@ -23,8 +23,6 @@ public:
     int get_annfee();
     int get_assets();
 
-    void print_cd();
-
 private:
     int cpr;
     int cd;

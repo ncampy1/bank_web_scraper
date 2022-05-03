@@ -39,6 +39,3 @@ int Bank::get_assets(){
     return this->assets;
 };
 
-void Bank::print_cd() {
-    cout << Bank::get_cd() << endl;
-}
