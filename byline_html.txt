@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE"/>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/favicons/favicon.ico"/>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="https://www.bylinebank.com/xmlrpc.php"/>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Rates | Byline Bank</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter%3Awght%40400%3B500%3B700&#038;ver=5.8.2&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter%3Awght%40400%3B500%3B700&#038;ver=5.8.2&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter%3Awght%40400%3B500%3B700&#038;ver=5.8.2&#038;display=swap" /></noscript>
+	<meta name="description" content="No matter where you are in your life, we’ve got an account that helps you achieve your goals and write your story. Check out our rates." />
+	<link rel="canonical" href="https://www.bylinebank.com/rates/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Rates | Byline Bank" />
+	<meta property="og:description" content="No matter where you are in your life, we’ve got an account that helps you achieve your goals and write your story. Check out our rates." />
+	<meta property="og:url" content="https://www.bylinebank.com/rates/" />
+	<meta property="og:site_name" content="Byline Bank" />
+	<meta property="article:modified_time" content="2022-05-03T13:01:10+00:00" />
+	<meta name="twitter:card" content="summary" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fast.wistia.net' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//www.youtube.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//oss.maxcdn.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Byline Bank &raquo; Feed" href="https://www.bylinebank.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Byline Bank &raquo; Comments Feed" href="https://www.bylinebank.com/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.bylinebank.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.bylinebank.com/wp-includes/css/dashicons.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-css'  href='https://www.bylinebank.com/wp-content/uploads/maxmegamenu/style.css?ver=07a2dc' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-genericons-css'  href='https://www.bylinebank.com/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome-css'  href='https://www.bylinebank.com/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome5-css'  href='https://www.bylinebank.com/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//use.fontawesome.com/releases/v5.1.0/css/all.css?ver=5.8.2' type='text/css' media='all' />
+
+<link rel='stylesheet' id='style-css'  href='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/style.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-css'  href='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/css/layout.css?ver=1648568080' type='text/css' media='all' />
+<link rel='stylesheet' id='oms-support-css'  href='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/css/support.css?ver=1648568079' type='text/css' media='all' />
+<link rel='stylesheet' id='oms-byl-gutenblocks-css'  href='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/css/byl-gutenblocks.css?ver=1648568079' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.bylinebank.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bylinebank.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='//oss.maxcdn.com/respond/1.4.2/respond.min.js' id='respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.bylinebank.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.bylinebank.com/wp-json/wp/v2/pages/8632" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bylinebank.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bylinebank.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.bylinebank.com/?p=8632' />
+<link rel="alternate" type="application/json+oembed" href="https://www.bylinebank.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bylinebank.com%2Frates%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.bylinebank.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bylinebank.com%2Frates%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v3.8.2 -->
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Orbit Media"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3NJ3DM');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:1654963,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+					<style id="wpsp-style-frontend"></style>
+			<script>
+(function($) {
+    $(document).on('facetwp-loaded', function() {
+        $('.facetwp-facet').each(function() {
+            var facet_name = $(this).attr('data-name');
+            var facet_label = FWP.settings.labels[facet_name];
+
+            // Add Labels for fields
+            if ($('.facet-label[data-for="' + facet_name + '"]').length < 1) {
+                $(this).before('<label for="' + facet_name + '" class="facet-label" data-for="' + facet_name + '"><span>' + facet_label + '</span></label>');
+            }
+
+            // Add ID to fields for labels
+            var attr = $(this).find('select, input.facetwp-search').attr('id');
+            if (!attr) {
+                $('.facetwp-facet-' + facet_name + ' .facetwp-dropdown, .facetwp-facet-' + facet_name + ' input').attr('id', facet_name);
+            }
+
+        });
+    });
+})(jQuery);
+</script>
+		<style type="text/css" id="wp-custom-css">
+			a:menu account-nav {noExitNotifier}
+			</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    <meta name="facebook-domain-verification" content="0td4ud3ggqupbr7d8jp72pzv47msrw" />
+</head>
+<body class="page-template-default page page-id-8632 wp-schema-pro-2.7.2 mega-menu-primary-menu">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3NJ3DM"
+height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">document.querySelector('body').classList.add('has_js');</script>
+
+<!-- Skip link for Accessibility -->
+<a href="#content" class="sr-only sr-only-focusable">Skip to Main Content</a>
+
+<div id="searchform">
+    <button class="close-search" ><span class="sr-only">Close Search Box</span></button>
+    <div class="search-overlay"></div>
+    <div class="form_container">
+
+
+<form role="search" method="get" class="searchform form-inline" action="https://www.bylinebank.com/">
+    <div class="form-group">
+        <label><span class="sr-only">Search for:</span>
+        <input class="form-control default" type="text" value=""
+                name="s" id="s" placeholder="Search Site"/></label>
+        <span class="input-group-btn">
+            <button class="btn search-go" type="submit">
+                <span class="fa fa-search"></span>
+                <span class="sr-only"> Search </span>
+            </button>
+        </span>
+    </div>
+</form>    </div>
+</div> <!-- /#searchform-mobile -->
+
+<div class="site-header-anchor"></div>
+<header class="site-header" role="banner">
+
+    <!-- #site-navigation -->
+    <div class="navbar-anchor"></div>
+
+    <div class="navigation-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="navigation-top-column">
+                    <button type="button" class="search-toggle" data-toggle="collapse" data-target="#searchform">
+                        <span class="sr-only">Toggle Search</span>
+                        <span class="fa fa-search" aria-hidden="true"></span>
+                    </button>
+                    <ul id="menu-top-right-menu-1" class="menu top-right-nav"><li id="menu-item-8766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8766 nav-item"><a title="About Us" href="https://www.bylinebank.com/about-us/" class="nav-link"><span>About Us</span></a></li>
+<li id="menu-item-16309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309 nav-item"><a title="Insights" href="https://www.bylinebank.com/insights/" class="nav-link"><span>Insights</span></a></li>
+<li id="menu-item-11491" class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-11491 nav-item"><a title="News" href="https://www.bylinebank.com/news/" class="nav-link"><span>News</span></a></li>
+<li id="menu-item-11493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11493 nav-item"><a title="Investors" target="_blank" href="http://www.bylinebancorp.com/" class="nav-link"><span>Investors</span></a></li>
+<li id="menu-item-13318" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8632 current_page_item menu-item-13318 nav-item active"><a title="Rates" href="https://www.bylinebank.com/rates/" class="nav-link"><span>Rates</span></a></li>
+<li id="menu-item-13319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13319 nav-item"><a title="Help &#038; Support" href="https://www.bylinebank.com/help/" class="nav-link"><span>Help &#038; Support</span></a></li>
+</ul>                    <div class="locations_menu"><ul id="menu-find-a-branch" class="menu locations-nav"><li id="menu-item-14182" class="menu-item menu-item-type-post_type_archive menu-item-object-locations menu-item-14182 nav-item"><a title="Locations" href="https://www.bylinebank.com/locations/" class="nav-link"><span>Locations</span></a></li>
+</ul></div>                    <div class="account_menu">
+                        <a class="dropdown_trigger">
+                            Logins                        </a>
+                        <div class="dropdown_container">
+                            <span class="account_menu_header">Account Logins</span>
+                            <ul id="menu-account-menu" class="menu account-nav"><li id="menu-item-11529" class="noExitNotifier menu-item menu-item-type-custom menu-item-object-custom menu-icon-account menu-item-11529 nav-item"><a title="Personal Banking" href="https://cibng.ibanking-services.com/eAM/Credential/Index?orgId=175_071001533&#038;FIFID=071001533&#038;brand=175_071001533&#038;appId=CeB&#038;FIORG=175" class="nav-link noExitNotifier "><span>Personal Banking</span></a></li>
+<li id="menu-item-11528" class="noExitNotifier menu-item menu-item-type-custom menu-item-object-custom menu-icon-briefcase menu-item-11528 nav-item"><a title="Business Banking" href="https://bylinebank.ebanking-services.com/" class="nav-link noExitNotifier "><span>Business Banking</span></a></li>
+<li id="menu-item-11530" class="noExitNotifier menu-item menu-item-type-custom menu-item-object-custom menu-icon-leaf menu-item-11530 nav-item"><a title="Wealth Management" href="https://app.trustreporter.com/TRv5/?bankabvr=FBTE" class="nav-link noExitNotifier "><span>Wealth Management</span></a></li>
+</ul>                            <ul id="menu-account-sub-menu" class="menu account-sub-nav"><li id="menu-item-11597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11597 nav-item"><a title="Forgot Login?" href="https://www.bylinebank.com/login-help/" class="nav-link"><span>Forgot Login?</span></a></li>
+<li id="menu-item-11596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11596 nav-item"><a title="Enroll" href="https://www.bylinebank.com/enroll-online-banking/" class="nav-link"><span>Enroll</span></a></li>
+</ul>                        </div>
+                    </div>
+                </div> <!-- /.site-header__top -->
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar navbar-default " id="main_navigation_container">
+        <div class="container-fluid">
+
+            <div class="row navbar-row-main">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                                        <a class="navbar-brand" href="https://www.bylinebank.com/" rel="home"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="main_logo" alt="LogoHeader BylineBank" data-lazy-src="https://www.bylinebank.com/wp-content/uploads/2020/08/logoHeader-BylineBank.svg" /><noscript><img src="https://www.bylinebank.com/wp-content/uploads/2020/08/logoHeader-BylineBank.svg" class="main_logo" alt="LogoHeader BylineBank" /></noscript></a>
+                    <div class="navbar-button">
+
+                        <button type="button" aria-label="Toggle Mobile Menu" class="navbar-toggle collapse-to-ex" data-toggle="collapse" data-target="#mobile-nav" data-parent="#navigation_container">
+                            <span class="bar top"></span>
+                            <span class="bar middle-left"></span>
+                            <span class="bar middle-right"></span>
+                            <span class="bar bottom"></span>
+                        </button>
+                    </div>
+                    <div class="clearer"></div>
+                </div>
+
+                <!-- Primary Nav -->
+                <div id="primary-nav-mega">
+                    <div id="mega-menu-wrap-primary-menu" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary-menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-megamenu align-bottom-left menu-grid menu-item-8583 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-8583' id='mega-menu-item-8583'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/" aria-haspopup="true" aria-expanded="false" tabindex="0"><span>Personal</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='menu-row mega-menu-row' id='mega-menu-8583-0'>
+	<ul class="mega-sub-menu">
+<li class='menu-column menu-columns-3-of-12 mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-8583-0-0'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-13290 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-13290' id='mega-menu-item-13290'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/personal/checking/"><span>Checking</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-11472 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-11472' id='mega-menu-item-11472'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/checking/freedom/"><span>Freedom Personal Checking</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8585 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8585' id='mega-menu-item-8585'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/checking/high-interest/"><span>High Interest Checking</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8586 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8586' id='mega-menu-item-8586'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/checking/prime-life/"><span>Prime Life Checking</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8587 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8587' id='mega-menu-item-8587'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/checking/student/"><span>Student Checking</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-3-of-12 mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-8583-0-1'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-8589 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-8589' id='mega-menu-item-8589'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/personal/savings/"><span>Savings & CDs</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8594 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8594' id='mega-menu-item-8594'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/statement/"><span>Statement Savings Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-14437 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14437' id='mega-menu-item-14437'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/high-yield-mm/"><span>High Yield Money Market</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-13797 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-13797' id='mega-menu-item-13797'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/cd/"><span>Certificates of Deposit (CDs)</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8593 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8593' id='mega-menu-item-8593'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/junior-banker/"><span>Junior Banker Savings Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8591 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8591' id='mega-menu-item-8591'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/hsa/"><span>Health Savings Account (HSA)</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8592 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8592' id='mega-menu-item-8592'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/savings/ira/"><span>Individual Retirement Accounts (IRAs)</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-3-of-12 mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-8583-0-2'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-13299 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-13299' id='mega-menu-item-13299'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/personal/online-mobile-banking/"><span>Online &#038; Mobile Banking</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-13301 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-13301' id='mega-menu-item-13301'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/online-mobile-banking/zelle/"><span>Zelle®</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-13300 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-13300' id='mega-menu-item-13300'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/online-mobile-banking/digital-payments/"><span>Digital Payments</span></a></li>			</ul>
+</li><li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-icon icon-left menu-item-11496 mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-11496' id='mega-menu-item-11496'><a class="mega-custom-icon mega-menu-link" href="#"><span>Personal Cards</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-13304 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-13304' id='mega-menu-item-13304'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/credit-cards/"><span>Credit Cards</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-13303 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-13303' id='mega-menu-item-13303'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/debit-cards/"><span>Debit Cards</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-3-of-12 mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-8583-0-3'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-8600 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-8600' id='mega-menu-item-8600'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/personal/loans/"><span>Personal Loans</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8601 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8601' id='mega-menu-item-8601'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/loans/home-equity/"><span>Home Equity Lines of Credit</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8602 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8602' id='mega-menu-item-8602'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/loans/mortgages/"><span>Mortgages</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8603 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8603' id='mega-menu-item-8603'><a class="mega-menu-link" href="https://www.bylinebank.com/personal/loans/installment/"><span>Personal Installment Loans</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-15617 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-15617' id='mega-menu-item-15617'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/"><span>Pay Your Loan</span></a></li>			</ul>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-13302 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-13302' id='mega-menu-item-13302'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/personal/safe-deposit-boxes/"><span>Safe Deposit Boxes</span></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-megamenu align-bottom-left menu-grid menu-item-8604 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-8604' id='mega-menu-item-8604'><a class="mega-menu-link" href="https://www.bylinebank.com/business/" aria-haspopup="true" aria-expanded="false" tabindex="0"><span>Business</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='menu-row mega-menu-row' id='mega-menu-8604-0'>
+	<ul class="mega-sub-menu">
+<li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8604-0-0'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-8605 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-8605' id='mega-menu-item-8605'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/checking/"><span>Checking</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8609 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8609' id='mega-menu-item-8609'><a class="mega-menu-link" href="https://www.bylinebank.com/business/checking/makers/"><span>Makers Checking Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8606 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8606' id='mega-menu-item-8606'><a class="mega-menu-link" href="https://www.bylinebank.com/business/checking/builders/"><span>Builders Checking Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-12766 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-12766' id='mega-menu-item-12766'><a class="mega-menu-link" href="https://www.bylinebank.com/business/checking/commercial-analysis-account/"><span>Commercial Analysis Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8610 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8610' id='mega-menu-item-8610'><a class="mega-menu-link" href="https://www.bylinebank.com/business/checking/not-for-profit/"><span>Not-For-Profit Checking Account</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-8607 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8607' id='mega-menu-item-8607'><a class="mega-menu-link" href="https://www.bylinebank.com/business/checking/business-interest-checking/"><span>Business Interest Checking Account</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8604-0-1'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-11513 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-11513' id='mega-menu-item-11513'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/savings/"><span>Savings & CDs</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-12847 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-12847' id='mega-menu-item-12847'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/online-mobile-banking-help/"><span>Online & Mobile Banking</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-13305 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-13305' id='mega-menu-item-13305'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/loans/"><span>Loans & Financing</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-15615 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-15615' id='mega-menu-item-15615'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/"><span>Pay Your Loan</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8604-0-2'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-16377 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-16377' id='mega-menu-item-16377'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/online-mobile-banking-help/autobooks/"><span>Send & Receive Payments</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-16378 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-16378' id='mega-menu-item-16378'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/business/credit-cards/"><span>Business Credit Cards</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-16379 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-16379' id='mega-menu-item-16379'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/commercial/treasury-management/merchant-services/"><span>Merchant Services</span></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-megamenu align-bottom-left menu-grid has-icon icon-left menu-item-8616 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-has-icon mega-icon-left mega-menu-item-8616' id='mega-menu-item-8616'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/commercial/" aria-haspopup="true" aria-expanded="false" tabindex="0"><span>Commercial</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='menu-row mega-menu-row' id='mega-menu-8616-0'>
+	<ul class="mega-sub-menu">
+<li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8616-0-0'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-8617 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-8617' id='mega-menu-item-8617'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/commercial/commercial-loans/"><span>Financing & Loans</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-15616 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-15616' id='mega-menu-item-15616'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/"><span>Pay Your Loan</span></a></li>			</ul>
+</li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8616-0-1'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-11517 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-11517' id='mega-menu-item-11517'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/commercial/treasury-management/"><span>Treasury Management</span></a></li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8616-0-2'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-icon icon-left menu-item-12142 mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-12142' id='mega-menu-item-12142'><a class="mega-custom-icon mega-menu-link" href="#"><span>Specialty Lending</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-12824 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-12824' id='mega-menu-item-12824'><a class="mega-menu-link" href="https://www.bylinebank.com/small-business-capital/"><span>SBA Loans</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-16165 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-16165' id='mega-menu-item-16165'><a class="mega-menu-link" href="https://www.bylinebank.com/small-business-capital/sbc-usda-loans/"><span>USDA Loans</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-11518 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-11518' id='mega-menu-item-11518'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/commercial-real-estate/"><span>Commercial Real Estate</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-11520 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-11520' id='mega-menu-item-11520'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/equipment-financing/"><span>Equipment Financing</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-11519 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-11519' id='mega-menu-item-11519'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/sponsor-finance/"><span>Sponsor Finance</span></a></li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-15044 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-15044' id='mega-menu-item-15044'><a class="mega-menu-link" href="https://www.bylinebank.com/commercial/life-insurance-premium-finance/"><span>Life insurance Premium Finance</span></a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-megamenu align-bottom-left menu-grid has-icon icon-left menu-item-8623 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-has-icon mega-icon-left mega-menu-item-8623' id='mega-menu-item-8623'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/wealth/" aria-haspopup="true" aria-expanded="false" tabindex="0"><span>Wealth</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='menu-row mega-menu-row' id='mega-menu-8623-0'>
+	<ul class="mega-sub-menu">
+<li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8623-0-0'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-11526 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-11526' id='mega-menu-item-11526'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/wealth/financial-planning/"><span>Financial Planning</span></a></li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8623-0-1'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page has-icon icon-left menu-item-8624 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-8624' id='mega-menu-item-8624'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/wealth/asset-management/"><span>Asset Management</span></a></li>		</ul>
+</li><li class='menu-column menu-columns-4-of-12 mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-8623-0-2'>
+		<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-icon icon-left menu-item-8628 mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-8628' id='mega-menu-item-8628'><a class="mega-custom-icon mega-menu-link" href="https://www.bylinebank.com/wealth/trust-services/"><span>Trust Services</span><span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='menu-item menu-item-type-custom menu-item-object-custom menu-item-11527 mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-11527' id='mega-menu-item-11527'><a class="mega-menu-link" href="https://ca.trustreporter.com/TRv4/?bankabvr=FBTE"><span>Login to Trust Reporter</span></a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='menu_button menu-item menu-item-type-custom menu-item-object-custom align-bottom-left menu-flyout menu-item-8777 menu_button mega-menu_button mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-8777 menu_button' id='mega-menu-item-8777'><a class="mega-menu-link" href="https://www.bylinebank.com/open-an-account?utm_source=byline&#038;utm_medium=referral&#038;utm_campaign=oao_launch&#038;utm_content=open_online_cta" tabindex="0"><span>Open an Account</span></a></li><li class="search-button-li mega-menu-item"><button type="button" class="search-toggle" data-toggle="collapse" data-target="#searchform">
+                    <span class="sr-only">Toggle Search</span>
+                    <span class="fa fa-search" aria-hidden="true"></span>
+                </button></li></ul></div>                </div>
+                <div id="mobile-nav" class="collapse navbar-collapse" >
+                    <div class="mobile_nav_inner">
+                        <ul id="menu-main-nav" class="main-navigation"><li id="menu-item-8583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8583 nav-item dropdown"><a title="Personal" href="https://www.bylinebank.com/personal/" class="nav-link"><span>Personal</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-13290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13290 nav-item dropdown"><a title="Checking" href="https://www.bylinebank.com/personal/checking/" class="nav-link"><span>Checking</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-11472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11472 nav-item"><a title="Freedom Personal Checking" href="https://www.bylinebank.com/personal/checking/freedom/" class="nav-link"><span>Freedom Personal Checking</span></a></li>
+		<li id="menu-item-8585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8585 nav-item"><a title="High Interest Checking" href="https://www.bylinebank.com/personal/checking/high-interest/" class="nav-link"><span>High Interest Checking</span></a></li>
+		<li id="menu-item-8586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586 nav-item"><a title="Prime Life Checking" href="https://www.bylinebank.com/personal/checking/prime-life/" class="nav-link"><span>Prime Life Checking</span></a></li>
+		<li id="menu-item-8587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8587 nav-item"><a title="Student Checking" href="https://www.bylinebank.com/personal/checking/student/" class="nav-link"><span>Student Checking</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-8589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8589 nav-item dropdown"><a title="Savings &amp; CDs" href="https://www.bylinebank.com/personal/savings/" class="nav-link"><span>Savings &#038; CDs</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-8594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8594 nav-item"><a title="Statement Savings Account" href="https://www.bylinebank.com/personal/savings/statement/" class="nav-link"><span>Statement Savings Account</span></a></li>
+		<li id="menu-item-14437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14437 nav-item"><a title="High Yield Money Market" href="https://www.bylinebank.com/personal/savings/high-yield-mm/" class="nav-link"><span>High Yield Money Market</span></a></li>
+		<li id="menu-item-13797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13797 nav-item"><a title="Certificates of Deposit (CDs)" href="https://www.bylinebank.com/personal/savings/cd/" class="nav-link"><span>Certificates of Deposit (CDs)</span></a></li>
+		<li id="menu-item-8593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8593 nav-item"><a title="Junior Banker Savings Account" href="https://www.bylinebank.com/personal/savings/junior-banker/" class="nav-link"><span>Junior Banker Savings Account</span></a></li>
+		<li id="menu-item-8591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8591 nav-item"><a title="Health Savings Account (HSA)" href="https://www.bylinebank.com/personal/savings/hsa/" class="nav-link"><span>Health Savings Account (HSA)</span></a></li>
+		<li id="menu-item-8592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8592 nav-item"><a title="Individual Retirement Accounts (IRAs)" href="https://www.bylinebank.com/personal/savings/ira/" class="nav-link"><span>Individual Retirement Accounts (IRAs)</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-13299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13299 nav-item dropdown"><a title="Online &#038; Mobile Banking" href="https://www.bylinebank.com/personal/online-mobile-banking/" class="nav-link"><span>Online &#038; Mobile Banking</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-13301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13301 nav-item"><a title="Zelle®" href="https://www.bylinebank.com/personal/online-mobile-banking/zelle/" class="nav-link"><span>Zelle®</span></a></li>
+		<li id="menu-item-13300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13300 nav-item"><a title="Digital Payments" href="https://www.bylinebank.com/personal/online-mobile-banking/digital-payments/" class="nav-link"><span>Digital Payments</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-11496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11496 nav-item dropdown"><a title="Personal Cards" href="#" class="nav-link"><span>Personal Cards</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-13304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13304 nav-item"><a title="Credit Cards" href="https://www.bylinebank.com/personal/credit-cards/" class="nav-link"><span>Credit Cards</span></a></li>
+		<li id="menu-item-13303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13303 nav-item"><a title="Debit Cards" href="https://www.bylinebank.com/personal/debit-cards/" class="nav-link"><span>Debit Cards</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-8600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8600 nav-item dropdown"><a title="Personal Loans" href="https://www.bylinebank.com/personal/loans/" class="nav-link"><span>Personal Loans</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-8601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8601 nav-item"><a title="Home Equity Lines of Credit" href="https://www.bylinebank.com/personal/loans/home-equity/" class="nav-link"><span>Home Equity Lines of Credit</span></a></li>
+		<li id="menu-item-8602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8602 nav-item"><a title="Mortgages" href="https://www.bylinebank.com/personal/loans/mortgages/" class="nav-link"><span>Mortgages</span></a></li>
+		<li id="menu-item-8603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8603 nav-item"><a title="Personal Installment Loans" href="https://www.bylinebank.com/personal/loans/installment/" class="nav-link"><span>Personal Installment Loans</span></a></li>
+		<li id="menu-item-15617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15617 nav-item"><a title="Pay Your Loan" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/" class="nav-link"><span>Pay Your Loan</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-13302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13302 nav-item"><a title="Safe Deposit Boxes" href="https://www.bylinebank.com/personal/safe-deposit-boxes/" class="nav-link"><span>Safe Deposit Boxes</span></a></li>
+</ul>
+</li>
+<li id="menu-item-8604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8604 nav-item dropdown"><a title="Business" href="https://www.bylinebank.com/business/" class="nav-link"><span>Business</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-8605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8605 nav-item dropdown"><a title="Checking" href="https://www.bylinebank.com/business/checking/" class="nav-link"><span>Checking</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-8609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8609 nav-item"><a title="Makers Checking Account" href="https://www.bylinebank.com/business/checking/makers/" class="nav-link"><span>Makers Checking Account</span></a></li>
+		<li id="menu-item-8606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8606 nav-item"><a title="Builders Checking Account" href="https://www.bylinebank.com/business/checking/builders/" class="nav-link"><span>Builders Checking Account</span></a></li>
+		<li id="menu-item-12766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12766 nav-item"><a title="Commercial Analysis Account" href="https://www.bylinebank.com/business/checking/commercial-analysis-account/" class="nav-link"><span>Commercial Analysis Account</span></a></li>
+		<li id="menu-item-8610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8610 nav-item"><a title="Not-For-Profit Checking Account" href="https://www.bylinebank.com/business/checking/not-for-profit/" class="nav-link"><span>Not-For-Profit Checking Account</span></a></li>
+		<li id="menu-item-8607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8607 nav-item"><a title="Business Interest Checking Account" href="https://www.bylinebank.com/business/checking/business-interest-checking/" class="nav-link"><span>Business Interest Checking Account</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-11513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11513 nav-item"><a title="Savings &amp; CDs" href="https://www.bylinebank.com/business/savings/" class="nav-link"><span>Savings &#038; CDs</span></a></li>
+	<li id="menu-item-12847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12847 nav-item"><a title="Online &amp; Mobile Banking" href="https://www.bylinebank.com/business/online-mobile-banking-help/" class="nav-link"><span>Online &#038; Mobile Banking</span></a></li>
+	<li id="menu-item-13305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13305 nav-item dropdown"><a title="Loans &amp; Financing" href="https://www.bylinebank.com/business/loans/" class="nav-link"><span>Loans &#038; Financing</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-15615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15615 nav-item"><a title="Pay Your Loan" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/" class="nav-link"><span>Pay Your Loan</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-16377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16377 nav-item"><a title="Send &amp; Receive Payments" href="https://www.bylinebank.com/business/online-mobile-banking-help/autobooks/" class="nav-link"><span>Send &#038; Receive Payments</span></a></li>
+	<li id="menu-item-16378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16378 nav-item"><a title="Business Credit Cards" href="https://www.bylinebank.com/business/credit-cards/" class="nav-link"><span>Business Credit Cards</span></a></li>
+	<li id="menu-item-16379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16379 nav-item"><a title="Merchant Services" href="https://www.bylinebank.com/commercial/treasury-management/merchant-services/" class="nav-link"><span>Merchant Services</span></a></li>
+</ul>
+</li>
+<li id="menu-item-8616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8616 nav-item dropdown"><a title="Commercial" href="https://www.bylinebank.com/commercial/" class="nav-link"><span>Commercial</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-8617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8617 nav-item dropdown"><a title="Financing &amp; Loans" href="https://www.bylinebank.com/commercial/commercial-loans/" class="nav-link"><span>Financing &#038; Loans</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-15616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15616 nav-item"><a title="Pay Your Loan" href="https://www.bylinebank.com/commercial/commercial-loans/rapid-pay/" class="nav-link"><span>Pay Your Loan</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-11517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11517 nav-item"><a title="Treasury Management" href="https://www.bylinebank.com/commercial/treasury-management/" class="nav-link"><span>Treasury Management</span></a></li>
+	<li id="menu-item-12142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12142 nav-item dropdown"><a title="Specialty Lending" href="#" class="nav-link"><span>Specialty Lending</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-12824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12824 nav-item"><a title="SBA Loans" href="https://www.bylinebank.com/small-business-capital/" class="nav-link"><span>SBA Loans</span></a></li>
+		<li id="menu-item-16165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16165 nav-item"><a title="USDA Loans" href="https://www.bylinebank.com/small-business-capital/sbc-usda-loans/" class="nav-link"><span>USDA Loans</span></a></li>
+		<li id="menu-item-11518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11518 nav-item"><a title="Commercial Real Estate" href="https://www.bylinebank.com/commercial/commercial-real-estate/" class="nav-link"><span>Commercial Real Estate</span></a></li>
+		<li id="menu-item-11520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11520 nav-item"><a title="Equipment Financing" href="https://www.bylinebank.com/commercial/equipment-financing/" class="nav-link"><span>Equipment Financing</span></a></li>
+		<li id="menu-item-11519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11519 nav-item"><a title="Sponsor Finance" href="https://www.bylinebank.com/commercial/sponsor-finance/" class="nav-link"><span>Sponsor Finance</span></a></li>
+		<li id="menu-item-15044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15044 nav-item"><a title="Life insurance Premium Finance" href="https://www.bylinebank.com/commercial/life-insurance-premium-finance/" class="nav-link"><span>Life insurance Premium Finance</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8623 nav-item dropdown"><a title="Wealth" href="https://www.bylinebank.com/wealth/" class="nav-link"><span>Wealth</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+<ul class="dropdown-menu">
+	<li id="menu-item-11526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11526 nav-item"><a title="Financial Planning" href="https://www.bylinebank.com/wealth/financial-planning/" class="nav-link"><span>Financial Planning</span></a></li>
+	<li id="menu-item-8624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8624 nav-item"><a title="Asset Management" href="https://www.bylinebank.com/wealth/asset-management/" class="nav-link"><span>Asset Management</span></a></li>
+	<li id="menu-item-8628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8628 nav-item dropdown"><a title="Trust Services" href="https://www.bylinebank.com/wealth/trust-services/" class="nav-link"><span>Trust Services</span></a><span class="fa fa-plus open-section" data-toggle="dropdown"></span><span class="fa fa-minus close-section" data-toggle="dropdown"></span>
+	<ul class="dropdown-menu">
+		<li id="menu-item-11527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11527 nav-item"><a title="Login to Trust Reporter" href="https://ca.trustreporter.com/TRv4/?bankabvr=FBTE" class="nav-link"><span>Login to Trust Reporter</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8777" class="menu_button menu-item menu-item-type-custom menu-item-object-custom menu-item-8777 nav-item"><a title="Open an Account" href="https://www.bylinebank.com/open-an-account?utm_source=byline&#038;utm_medium=referral&#038;utm_campaign=oao_launch&#038;utm_content=open_online_cta" class="nav-link"><span>Open an Account</span></a></li>
+</ul>                        <ul id="menu-top-right-menu-2" class="menu top-right-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8766 nav-item"><a title="About Us" href="https://www.bylinebank.com/about-us/" class="nav-link"><span>About Us</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309 nav-item"><a title="Insights" href="https://www.bylinebank.com/insights/" class="nav-link"><span>Insights</span></a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-11491 nav-item"><a title="News" href="https://www.bylinebank.com/news/" class="nav-link"><span>News</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11493 nav-item"><a title="Investors" target="_blank" href="http://www.bylinebancorp.com/" class="nav-link"><span>Investors</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8632 current_page_item menu-item-13318 nav-item active"><a title="Rates" href="https://www.bylinebank.com/rates/" class="nav-link"><span>Rates</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13319 nav-item"><a title="Help &#038; Support" href="https://www.bylinebank.com/help/" class="nav-link"><span>Help &#038; Support</span></a></li>
+</ul>                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header> <!-- /.site-header --><div id="oms_alerts"></div>
+<div class="banner_container no_image">
+    <div class="container-fluid">
+
+
+        <div class="row">
+
+            <div class="text_column">
+
+                <div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+                                    </div>
+
+                <h1>Rates</h1><p class="intro-text">Current <span style="text-decoration: underline;"><a href="#cd">CD rates</a></span> and <span style="text-decoration: underline;"><a href="#deposit">deposit rates</a></span>.</p>
+            </div>
+
+                    </div>
+    </div>
+
+
+
+</div>
+
+
+<!-- Skip to content will skip any alert bars, and the top banner section -->
+<div id="content"></div>
+<div id='gutenberg-content-container' >
+
+
+<section id="gutenblock-block_60a42b8b57aca" class="gutenblock gutenblock--oms-table bg-color-tan ">
+
+    <div class="gutenblock-inner">
+
+        <div class="container-fluid">
+
+
+
+    <div class="row header_row header_align_left">
+        <div class="header_column">
+            <p><a class="btn-primary noExitNotifier" href="https://www.bylinebank.com/open-an-account/">Open an Account</a></p>
+        </div>
+    </div>
+
+
+            <div class="row feed_row">
+
+                <div class="col table_column">
+                    <div class="table_column_inner">
+                        <div class="table_wrapper">
+                            <div class="table_wrapper_inner">
+                                <h2 id="tablepress-16-name" class="tablepress-table-name tablepress-table-name-id-16">Online Deposit &amp; CD Rates</h2>
+
+<table id="tablepress-16" class="tablepress tablepress-id-16" aria-labelledby="tablepress-16-name" aria-describedby="tablepress-16-description">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Account Type</th><th class="column-2">Annual Percentage Yield (APY)</th><th class="column-3">Interest Rate</th><th class="column-4">Compounding and Payment Period</th><th class="column-5">Minimum Deposit to Open</th><th class="column-6">Minimum Daily Balance to Avoid Monthly Service Fee</th><th class="column-7">Minimum Balance for APY</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=freedomChecking">Freedom Personal Checking</a></td><td class="column-2">N/A</td><td class="column-3">N/A</td><td class="column-4">N/A</td><td class="column-5">$100</td><td class="column-6">$0</td><td class="column-7">N/A</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=statementSavings">Statement Savings</a><sup>1, 2</sup></td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$200</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=onlineMoneyMarket">Online Money Market</a><sup>1, 3</sup></td><td class="column-2">0.40%</td><td class="column-3">0.395%</td><td class="column-4">Monthly</td><td class="column-5">$5,000</td><td class="column-6">$5,000</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=advantageMoneyMarket">Advantage Money Market</a><sup>1, 4</sup></td><td class="column-2">0.65%</td><td class="column-3">0.645%</td><td class="column-4">Monthly</td><td class="column-5">$25,000</td><td class="column-6">$25,000</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=premiumcd">Premium 1-Year CD</a><sup>5</sup></td><td class="column-2">1.00%</td><td class="column-3">0.995%</td><td class="column-4">Quarterly</td><td class="column-5">$1,500</td><td class="column-6">N/A</td><td class="column-7">$1,500</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=8MonthCd">8-Month Promo CD</a><sup>5</sup></td><td class="column-2">0.15%</td><td class="column-3">0.149%</td><td class="column-4">Quarterly</td><td class="column-5">$5,000</td><td class="column-6">N/A</td><td class="column-7">$5,000</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=1YearCd">1-Year CD</a><sup>5</sup></td><td class="column-2">0.10%</td><td class="column-3">0.095%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">N/A</td><td class="column-7">$500</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=2YearCd">2-Year CD</a><sup>5</sup></td><td class="column-2">0.50%</td><td class="column-3">0.495%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">N/A</td><td class="column-7">$500</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=3YearCd">3-Year CD</a><sup>5</sup></td><td class="column-2">0.60%</td><td class="column-3">0.595%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">N/A</td><td class="column-7">$500</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=4YearCd">4-Year CD</a><sup>5</sup></td><td class="column-2">0.70%</td><td class="column-3">0.695%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">N/A</td><td class="column-7">$500</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1"><a href="https://open.bylinebank.com/basicInfo?prod=5YearCd">5-Year CD</a><sup>5</sup></td><td class="column-2">1.00%</td><td class="column-3">0.995%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">N/A</td><td class="column-7">$500</td>
+</tr>
+</tbody>
+</table>
+<span id="tablepress-16-description" class="tablepress-table-description tablepress-table-description-id-16">ONLINE DEPOSIT &amp; CD RATES EFFECTIVE: May 3, 2022<br />
+The information contained within this rate sheet applies to accounts opened online. For new customers, with the exception of the Premium 1-Year CD*, only residents of Illinois and Wisconsin are eligible to open accounts online. See Personal Deposit Account Agreement and Disclosures on bylinebank.com/disclosures for additional terms and conditions. Each applicant must be a U.S. Citizen or resident alien, and have a U.S. physical address.<br />
+<br />
+1. Interest rates are set at Byline Bank&#8217;s discretion and may change at any time without notice.  We use the daily balance method to calculate interest on the account. This method applies a daily periodic rate to the principal in the account each day.  Interest begins to accrue on the business day you deposit any non-cash items (for example, checks).  Interest is compounded and paid monthly based on your statement cycle.  Accounts closed before the interest payment date will not earn accrued interest for that period.  Fees may reduce earnings.<br />
+<br />
+2. If the daily balance falls below $200, a $3 monthly service fee applies. No monthly service fee will be assessed on the first statement cycle after account opening.<br />
+<br />
+3. If your daily balance is $500,000 or less, the interest rate paid on the entire balance will be 0.395% with an annual percentage yield of 0.40%. No interest will be paid on that portion of your daily balance that is greater than $500,000. The annual percentage yield for this tier will range from 0.40% to 0.20%, depending on the balance in the account. If the daily balance falls below $5,000, a $25 monthly service fee applies. No monthly service fee will be assessed on the first statement cycle after account opening.<br />
+<br />
+4. If your daily balance is $500,000 or less, the interest rate paid on the entire balance will be 0.645% with an annual percentage yield (“APY”) of 0.65%. No interest will be paid on that portion of your balance that is greater than $500,000. The APY for this tier will range from 0.65% to 0.32%, depending on the balance in the account. If the daily balance falls below $25,000, a $25 monthly service fee applies. No monthly service fee will be assessed on the first statement cycle after account opening.<br />
+<br />
+5. Certificate of Deposit (CD)<br />
+Annual Percentage Yield. APYs are effective as of May 3, 2022.<br />
+<br />
+* Premium 1-Year CD is available online in all 50 states. The Annual Percentage Yield (APY) and Interest Rate are effective as of May 3, 2022. Limited time offer. <br />
+<br />
+RATES AND INTEREST<br />
+Rates and annual percentage yields (APYs) are subject to change without notice. The APY assumes that interest remains on deposit until maturity. An early withdrawal will reduce earnings. Please see the table for the minimum deposit required to open these accounts. You must maintain the minimum balance to earn the APY.  The stated interest rate is fixed for the term of the CD and will be paid quarterly until maturity. Interest may be paid by check or transfer to another account, at your option. You will forfeit any accrued interest that has not yet been credited to your account, if the account is closed prematurely. We use the daily balance method to calculate the interest on this account. This method applies a daily periodic rate to the principal in the account each day. Interest begins to accrue on the business day you deposit any noncash item (for example, checks).<br />
+<br />
+DEPOSITS<br />
+Deposits are accepted to all CDs during the grace period.  <br />
+<br />
+WITHDRAWALS<br />
+You may not withdraw any principal from this Certificate before maturity without our consent, which may be withheld; if we permit such a withdrawal, you may have to pay a penalty as follows: A) Where the original maturity of the account is one year or less, the penalty will be forfeiture of 90 days interest on the amount withdrawn, at the nominal (simple interest) rate in effect during the term. B) Where the original maturity of the account is more than one year, the penalty will be forfeiture of 180 days interest on the amount withdrawn at the nominal (simple interest) rate in effect during the term. C) If the withdrawal is within 6 days after the date of first deposit, a minimum of 7 days of interest will be charged as a penalty. You must withdraw funds within the grace period to avoid being charged a penalty. Fees could reduce the earnings on the account.<br />
+<br />
+RENEWAL<br />
+Unless you notify us in writing before the maturity date, or within the grace period, Certificates of Deposit will automatically renew on the maturity date. The grace period is ten (10) calendar days for CDs with a term greater than 31 days and is three (3) calendar days for CDs with a term of 31 days or less. We can prevent automatic renewal if we notify you in writing on or before the maturity date that we do not intend to renew the account. Promotional Certificate of Deposits may renew into a different term. If you close your CD during the grace period, no accrued interest will be paid after the maturity date. We will send you a Maturity Notice prior to renewal, please read it carefully. We may change the type, term or other feature of your CD by giving you notice. If we make a change, we tell you about the change in the Renewal Notice. See Personal Deposit Account Agreement and Disclosures for additional terms and conditions.<br />
+©2022 Byline Bank. Member FDIC.</span>
+<!-- #tablepress-16 from cache -->                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div> <!-- .row -->
+        </div> <!-- .container-fluid -->
+
+    </div> <!-- /.gutenblock__inner -->
+
+</section> <!-- gutenblock gutenblock--oms-table bg-color-tan  -->
+
+
+
+
+<section id="gutenblock-block_5f7cdfdba2102" class="gutenblock gutenblock--oms-table bg-color-tan ">
+
+    <div class="gutenblock-inner">
+
+        <div class="container-fluid">
+
+
+
+            <div class="row feed_row">
+
+                <div class="col table_column">
+                    <div class="table_column_inner">
+                        <div class="table_wrapper">
+                            <div class="table_wrapper_inner">
+                                <h2 id="tablepress-11-name" class="tablepress-table-name tablepress-table-name-id-11">Branch Certificate of Deposit Rates</h2>
+
+<table id="tablepress-11" class="tablepress tablepress-id-11" aria-labelledby="tablepress-11-name" aria-describedby="tablepress-11-description">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Account Type</th><th class="column-2">Annual Percentage Yield (APY)</th><th class="column-3">Interest Rate</th><th class="column-4">Compounding and Payment Period</th><th class="column-5">Minimum Deposit to Open</th><th class="column-6">Minimum Balance for APY</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-2 even">
+	<td class="column-1">7-31-Day CD</td><td class="column-2">0.01%</td><td class="column-3">0.006%</td><td class="column-4">Simple @ Maturity</td><td class="column-5">$20,000</td><td class="column-6">$20,000</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">91-Day CD</td><td class="column-2">0.03%</td><td class="column-3">0.025%</td><td class="column-4">Simple @ Maturity</td><td class="column-5">$2,500</td><td class="column-6">$2,500</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">6-Month CD</td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Simple @ Maturity</td><td class="column-5">$2,500</td><td class="column-6">$2,500</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">1-Year CD</td><td class="column-2">0.10%</td><td class="column-3">0.095%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">18-Month CD</td><td class="column-2">0.30%</td><td class="column-3">0.295%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">2-Year CD</td><td class="column-2">0.50%</td><td class="column-3">0.495%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">3-Year CD</td><td class="column-2">0.60%</td><td class="column-3">0.595%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">4-Year CD</td><td class="column-2">0.70%</td><td class="column-3">0.695%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">5-Year CD</td><td class="column-2">1.00%</td><td class="column-3">0.995%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">IRA 18-Month CD</td><td class="column-2">0.30%</td><td class="column-3">0.295%</td><td class="column-4">Quarterly</td><td class="column-5">$500</td><td class="column-6">$500</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">8-Month Promo CD</td><td class="column-2">0.15%</td><td class="column-3">0.149%</td><td class="column-4">Quarterly</td><td class="column-5">$5,000</td><td class="column-6">$5,000</td>
+</tr>
+</tbody>
+</table>
+<span id="tablepress-11-description" class="tablepress-table-description tablepress-table-description-id-11">CD RATES EFFECTIVE DATE: November 17, 2021<br />
+Rates and Interest<br />
+Rates and annual percentage yield (APY) are subject to change without notice. The annual percentage yield assumes that interest remains on deposit until maturity. An early withdrawal will reduce earnings. Please see the table for the minimum deposit required to open these accounts. You must maintain this minimum balance to earn the annual percentage yield. All available Certificates of Deposit (CDs) may be opened as an Individual Retirement Account (IRA). The stated interest rate is fixed for the term of the Certificate and will be paid until maturity. Interest may be paid by check or transfer to another account, at your option. You will forfeit any accrued interest that has not yet been credited to your account, if the account is closed prematurely. We use the daily balance method to calculate the interest on this account. This method applies a daily periodic rate to the principal in the account each day. Interest begins to accrue on the business day you deposit any noncash item (for example, checks).<br />
+<br />
+Deposits<br />
+Deposits are accepted to all CDs during the grace period. Deposits during the term will only be accepted into the IRA 18 Month CD.<br />
+<br />
+Withdrawals<br />
+You may not withdraw any principal from this Certificate before maturity without our consent, which may be withheld; if we permit such a withdrawal, you may have to pay a penalty as follows: A) Where the original maturity of the account is one year or less, the penalty will be forfeiture of 90 days interest on the amount withdrawn, at the nominal (simple interest) rate in effect during the term. B) Where the original maturity of the account is more than one year, the penalty will be forfeiture of 180 days interest on the amount withdrawn at the nominal (simple interest) rate in effect during the term. C) If the withdrawal is within 6 days after the date of first deposit, a minimum of 7 days of interest will be charged as a penalty. You must withdraw funds within the grace period to avoid being charged a penalty. Fees could reduce the earnings on the account.<br />
+<br />
+IRA Exceptions<br />
+Early withdrawal penalty exception for IRA CDs are as follows: Customers age 72 or better may withdraw from any IRA CD at any time without penalty. Customers age 59 ½ or better may withdraw from the IRA 18 month CD with no penalty at any time as long as the withdrawal qualifies as a normal distribution.<br />
+<br />
+Renewal<br />
+Unless you notify us in writing before the maturity date, or within the grace period, Certificates of Deposit will automatically renew on the maturity date. The grace period is ten (10) calendar days for CDs with a term greater than 31 days and is three (3) calendar days for CDs with a term 31 days or less. We can prevent automatic renewal if we notify you in writing on or before the maturity date that we do not intend to renew the account. Promotional Certificate of Deposits may renew into a different term. If you close your CD during the grace period, no accrued interest will be paid after the maturity date. We send you a Maturity Notice prior to renewal. Please read it carefully. We may change the type, term or other feature of your bank CD by giving you notice. If we make a change, we tell you about the change in the Renewal Notice. See Deposit Account Agreement and Disclosures for terms and conditions. </span>
+<!-- #tablepress-11 from cache -->                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div> <!-- .row -->
+        </div> <!-- .container-fluid -->
+
+    </div> <!-- /.gutenblock__inner -->
+
+</section> <!-- gutenblock gutenblock--oms-table bg-color-tan  -->
+
+
+
+
+<section id="gutenblock-block_5f88ae245e761" class="gutenblock gutenblock--oms-table bg-color-tan  gutenblock_separator ">
+
+    <div class="gutenblock-inner">
+
+        <div class="container-fluid">
+
+
+
+            <div class="row feed_row">
+
+                <div class="col table_column">
+                    <div class="table_column_inner">
+                        <div class="table_wrapper">
+                            <div class="table_wrapper_inner">
+                                <h2 id="tablepress-6-name" class="tablepress-table-name tablepress-table-name-id-6">Branch Deposit Rates</h2>
+
+<table id="tablepress-6" class="tablepress tablepress-id-6" aria-labelledby="tablepress-6-name" aria-describedby="tablepress-6-description">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Account Type</th><th class="column-2">Annual<br />
+Percentage<br />
+Yield (APY)</th><th class="column-3">Interest<br />
+Rate</th><th class="column-4">Compounding<br />
+and<br />
+Payment Period</th><th class="column-5">Minimum<br />
+Deposit<br />
+to Open</th><th class="column-6">Minimum Balance<br />
+to Avoid Monthly Service Fee</th><th class="column-7">Minimum Balance<br />
+for APY</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td rowspan="2" class="column-1"><a href="https://www.bylinebank.com/personal/savings/high-yield-mm/">High Yield Money Market</a><br>(Personal or Business)</td><td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$1,000</td><td class="column-6">$10,000</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-2">0.03%</td><td class="column-3">0.025%</td><td class="column-4">Monthly</td><td class="column-5">$1,000</td><td class="column-6">$10,000</td><td class="column-7">$10,000</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Money Market<br />
+(Personal or Business)</td><td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$1,000</td><td class="column-6">$2,500</td><td class="column-7">$2,500</td>
+</tr>
+<tr class="row-5 odd">
+	<td rowspan="4" class="column-1"><a href="https://www.bylinebank.com/personal/checking/high-interest/">High Interest Checking</a><br>(Personal)</td><td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$2,500</td><td class="column-7">$2,500</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$2,500</td><td class="column-7">$10,000</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-2">0.03%</td><td class="column-3">0.025%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$2,500</td><td class="column-7">$50,000</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$2,500</td><td class="column-7">$100,000</td>
+</tr>
+<tr class="row-9 odd">
+	<td rowspan="4" class="column-1"><a href="https://www.bylinebank.com/personal/checking/prime-life/">Prime Life Checking</a><br>(Personal)</td><td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$0</td><td class="column-7">$2,500</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-2">0.01%</td><td class="column-3">0.010%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$0</td><td class="column-7">$10,000</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-2">0.03%</td><td class="column-3">0.025%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$0</td><td class="column-7">$50,000</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$0</td><td class="column-7">$100,000</td>
+</tr>
+<tr class="row-13 odd">
+	<td rowspan="4" class="column-1"><a href="https://www.bylinebank.com/personal/savings/hsa/">Health Savings</a><br>(Personal)</td><td class="column-2">0.03%</td><td class="column-3">0.025%</td><td class="column-4">Monthly</td><td class="column-5">$1</td><td class="column-6">$0</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$1</td><td class="column-6">$0</td><td class="column-7">$2,500</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$1</td><td class="column-6">$0</td><td class="column-7">$10,000</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$1</td><td class="column-6">$0</td><td class="column-7">$25,000</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1"><a href="https://www.bylinebank.com/personal/savings/statement/">Statement and Passbook Savings</a><br>(Personal)</td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$200</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1"><a href="https://www.bylinebank.com/personal/savings/junior-banker/">Junior Banker Statement and Passbook Savings</a></td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$1</td><td class="column-6">$0</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1"><a href="https://www.bylinebank.com/personal/savings/ira/">IRA Savings</a></td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Quarterly</td><td class="column-5">$250</td><td class="column-6">$0</td><td class="column-7">No Minimum</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1"><a href="https://www.bylinebank.com/business/checking/business-interest-checking/">Business  Interest Checking</a></td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$2,500</td><td class="column-7">$1,000</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1"><a href="https://www.bylinebank.com/business/savings/">Business Statement Savings</a></td><td class="column-2">0.05%</td><td class="column-3">0.046%</td><td class="column-4">Monthly</td><td class="column-5">$100</td><td class="column-6">$200</td><td class="column-7">No Minimum</td>
+</tr>
+</tbody>
+</table>
+<span id="tablepress-6-description" class="tablepress-table-description tablepress-table-description-id-6">DEPOSIT ACCOUNT RATES EFFECTIVE: May 17, 2021<br />
+Interest rates on all accounts are set at the bank’s discretion. Interest rates and annual percentage yields may change at any time without notice.  For tiered rate accounts, the disclosed interest rate is paid on the entire balance for that tier.  You must maintain the minimum required balance in the account each day to obtain the annual percentage yield listed above. We use the daily balance method to calculate interest on the account. This method applies a daily periodic rate to the principal in the account each day. Interest begins to accrue on the business day you deposit any non-cash items (for example, checks).  Accounts closed before the interest payment date will not earn accrued interest for that period.  Fees may reduce earnings on the accounts.<br />
+<br />
+On High Yield Money Market, if the daily balance falls below $10,000, a $25 monthly service charge applies.<br />
+<br />
+On Money Market Accounts, if the daily balance falls below $2,500, a $15 monthly service charge applies.<br />
+<br />
+On High Interest Checking, if the daily balance falls below $2,500, a $15 monthly service charge applies.  <br />
+<br />
+On Personal Passbook and Statement Savings accounts, if the daily balance falls below $200, a $3 monthly service charge applies.<br />
+<br />
+On Business Interest Checking, if the daily balance falls below $2,500, a $12.50 monthly service charge applies.<br />
+<br />
+On Business Statement Savings, if the daily balance falls below $200, a $3 monthly service charge applies.<br />
+<br />
+IRA deposits or withdrawals (with the exception of pre-authorized withdrawals) can be made at any time to the IRA Savings.<br />
+<br />
+Consult your tax or legal professional about the tax benefits applicable to a Health Savings Account.<br />
+<br />
+See Deposit Account Agreement and Disclosures and the Accounts Brochure for additional terms. <br />
+<br />
+©2021 Byline Bank. Member FDIC.</span>
+<!-- #tablepress-6 from cache -->                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div> <!-- .row -->
+        </div> <!-- .container-fluid -->
+
+    </div> <!-- /.gutenblock__inner -->
+
+</section> <!-- gutenblock gutenblock--oms-table bg-color-tan  gutenblock_separator  -->
+
+
+            </div>
+
+
+
+<!-- FOOTER -->
+
+
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="logo_column">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="footer_logo" alt="LogoFooter BylineBank" data-lazy-src="https://www.bylinebank.com/wp-content/uploads/2020/08/logoFooter-BylineBank.svg" /><noscript><img src="https://www.bylinebank.com/wp-content/uploads/2020/08/logoFooter-BylineBank.svg" class="footer_logo" alt="LogoFooter BylineBank" /></noscript>
+                    <ul id="menu-footer-logo-menu" class="menu"><li id="menu-item-13924" class="menu-item menu-item-type-custom menu-item-object-custom menu-icon-locations menu-item-13924"><a href="/locations">Locations &#038; ATMs</a></li>
+<li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-page menu-icon-login menu-item-11509"><a href="https://www.bylinebank.com/login/">Login</a></li>
+</ul>                </div>
+                <div class="menu_column">
+                    <div id="footer-menu" class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-13320" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_ancestor menu-item-has-children menu-item-13320"><a href="https://www.bylinebank.com/help/">Help &#038; Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-13324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13324"><a href="/help/personal-online-banking-help/">Online Banking Help</a></li>
+	<li id="menu-item-13323" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8632 current_page_item menu-item-13323"><a href="https://www.bylinebank.com/rates/" aria-current="page">Rates</a></li>
+	<li id="menu-item-8645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8645"><a href="https://www.bylinebank.com/help/reorder-checks/">Reorder Checks</a></li>
+	<li id="menu-item-8646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8646"><a href="https://www.bylinebank.com/help/lost-stolen-card/">Lost or Stolen Card</a></li>
+	<li id="menu-item-13322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13322"><a href="https://www.bylinebank.com/help/fraud-prevention-security/">Fraud Prevention &#038; Security</a></li>
+	<li id="menu-item-11581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11581"><a href="https://www.bylinebank.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+</ul></div>                </div>
+                <div class="menu_column">
+                    <div id="footer-menu-2" class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-8655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8655"><a href="https://www.bylinebank.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-8649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8649"><a href="https://www.bylinebank.com/about-us/corporate-social-responsibility/community/">In the Community</a></li>
+	<li id="menu-item-14015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14015"><a href="https://www.bylinebank.com/about-us/corporate-social-responsibility/sustainability/">Sustainability</a></li>
+	<li id="menu-item-15070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15070"><a href="https://www.bylinebank.com/about-us/corporate-social-responsibility/dei/">Diversity, Equity, and Inclusion</a></li>
+	<li id="menu-item-8651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8651"><a href="https://www.bylinebank.com/about-us/leadership/">Leadership</a></li>
+	<li id="menu-item-12081" class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-12081"><a href="https://www.bylinebank.com/news/">News</a></li>
+	<li id="menu-item-8653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8653"><a href="https://www.bylinebank.com/about-us/careers/">Careers</a></li>
+</ul>
+</li>
+</ul></div>                </div>
+                <div class="menu_column">
+                    <div id="footer-menu-3" class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-8657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8657"><a href="https://www.bylinebank.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-8658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8658"><a href="https://www.bylinebank.com/personal/">Personal Banking</a></li>
+	<li id="menu-item-8659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8659"><a href="https://www.bylinebank.com/business/">Small Business Banking</a></li>
+	<li id="menu-item-13531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13531"><a href="https://www.bylinebank.com/commercial/">Commercial Banking</a></li>
+	<li id="menu-item-8661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8661"><a href="https://www.bylinebank.com/wealth/">Wealth Management</a></li>
+</ul>
+</li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="copyright_column">
+
+                                        <div class="footer_bottom_logo_container">
+                        <img width="64" height="65" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2065'%3E%3C/svg%3E" class="footer_bottom_logo" alt="Logo EqualHousingLender@2x" data-lazy-src="https://www.bylinebank.com/wp-content/uploads/2020/08/logo-EqualHousingLender@2x.png" /><noscript><img width="64" height="65" src="https://www.bylinebank.com/wp-content/uploads/2020/08/logo-EqualHousingLender@2x.png" class="footer_bottom_logo" alt="Logo EqualHousingLender@2x" /></noscript>                    </div>
+
+                    <div class="footer_bottom_copy">
+                        <div class="contact_container">
+                            <span class="contact_line"><a href="/contact/">Contact Us</a> or call (773) 244-7000  </span>
+                            <div id="copyright-menu" class="menu-copyright-menu-container"><ul id="menu-copyright-menu" class="menu"><li id="menu-item-8707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8707"><a href="https://www.bylinebank.com/disclosures/">Disclosures</a></li>
+<li id="menu-item-13917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13917"><a href="https://www.bylinebank.com/terms/">Terms &#038; Conditions</a></li>
+<li id="menu-item-13654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-13654"><a href="https://www.bylinebank.com/privacy-policy/">Privacy</a></li>
+<li id="menu-item-8334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8334"><a href="https://www.bylinebank.com/sitemap/">Sitemap</a></li>
+</ul></div>                        </div>
+                        <div class="routing_container">
+                            <span class="routing_line"><span class="fdic_text">
+                                    Member FDIC,                                     SBA Preferred Lender. Routing Number 071001533.                            </span>
+                            <span class="blog_info">&copy; 2022 Byline Bank</span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="social_column">
+                    <ul class="social_container">
+                    <li><a href='https://www.facebook.com/WeAreBylineBank' class='social_icon' aria-hidden='true' tabindex='-1' ><span class='fab fa-facebook-f' aria-hidden='true' style='position: relative'  tabindex='-1'></span><span class='sr-only' tabindex='-1'>Facebook</span></a></li><li><a href='https://www.linkedin.com/company/byline-bank' class='social_icon' aria-hidden='true' tabindex='-1' ><span class='fab fa-linkedin-in' aria-hidden='true' style='position: relative'  tabindex='-1'></span><span class='sr-only' tabindex='-1'>LinkedIn</span></a></li><li><a href='https://www.twitter.com/bylinebank' class='social_icon' aria-hidden='true' tabindex='-1' ><span class='fab fa-twitter' aria-hidden='true' style='position: relative'  tabindex='-1'></span><span class='sr-only' tabindex='-1'>Twitter</span></a></li>                    </ul>
+
+                    <a href='http://www.bylinebancorp.com/' class='investor_link cta-link' target=''>Investor Relations</a>                </div>
+            </div>
+        </div>
+    </div>
+
+
+    </footer> <!-- /.site-footer -->
+
+<!-- site-navigation-element Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Personal","url":"https:\/\/www.bylinebank.com\/personal\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Checking","url":"https:\/\/www.bylinebank.com\/business\/checking\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Freedom Personal Checking","url":"https:\/\/www.bylinebank.com\/personal\/checking\/freedom\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"High Interest Checking","url":"https:\/\/www.bylinebank.com\/personal\/checking\/high-interest\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Prime Life Checking","url":"https:\/\/www.bylinebank.com\/personal\/checking\/prime-life\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Student Checking","url":"https:\/\/www.bylinebank.com\/personal\/checking\/student\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Savings & CDs","url":"https:\/\/www.bylinebank.com\/business\/savings\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Statement Savings Account","url":"https:\/\/www.bylinebank.com\/personal\/savings\/statement\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"High Yield Money Market","url":"https:\/\/www.bylinebank.com\/personal\/savings\/high-yield-mm\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Certificates of Deposit (CDs)","url":"https:\/\/www.bylinebank.com\/personal\/savings\/cd\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Junior Banker Savings Account","url":"https:\/\/www.bylinebank.com\/personal\/savings\/junior-banker\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health Savings Account (HSA)","url":"https:\/\/www.bylinebank.com\/personal\/savings\/hsa\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Individual Retirement Accounts (IRAs)","url":"https:\/\/www.bylinebank.com\/personal\/savings\/ira\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Online &#038; Mobile Banking","url":"https:\/\/www.bylinebank.com\/personal\/online-mobile-banking\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Zelle\u00ae","url":"https:\/\/www.bylinebank.com\/personal\/online-mobile-banking\/zelle\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Digital Payments","url":"https:\/\/www.bylinebank.com\/personal\/online-mobile-banking\/digital-payments\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Personal Cards","url":"#"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Credit Cards","url":"https:\/\/www.bylinebank.com\/personal\/credit-cards\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Debit Cards","url":"https:\/\/www.bylinebank.com\/personal\/debit-cards\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Personal Loans","url":"https:\/\/www.bylinebank.com\/personal\/loans\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Home Equity Lines of Credit","url":"https:\/\/www.bylinebank.com\/personal\/loans\/home-equity\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Mortgages","url":"https:\/\/www.bylinebank.com\/personal\/loans\/mortgages\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Personal Installment Loans","url":"https:\/\/www.bylinebank.com\/personal\/loans\/installment\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Pay Your Loan","url":"https:\/\/www.bylinebank.com\/commercial\/commercial-loans\/rapid-pay\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Safe Deposit Boxes","url":"https:\/\/www.bylinebank.com\/personal\/safe-deposit-boxes\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Business","url":"https:\/\/www.bylinebank.com\/business\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Makers Checking Account","url":"https:\/\/www.bylinebank.com\/business\/checking\/makers\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Builders Checking Account","url":"https:\/\/www.bylinebank.com\/business\/checking\/builders\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Commercial Analysis Account","url":"https:\/\/www.bylinebank.com\/business\/checking\/commercial-analysis-account\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Not-For-Profit Checking Account","url":"https:\/\/www.bylinebank.com\/business\/checking\/not-for-profit\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Business Interest Checking Account","url":"https:\/\/www.bylinebank.com\/business\/checking\/business-interest-checking\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Online & Mobile Banking","url":"https:\/\/www.bylinebank.com\/business\/online-mobile-banking-help\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Loans & Financing","url":"https:\/\/www.bylinebank.com\/business\/loans\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Send & Receive Payments","url":"https:\/\/www.bylinebank.com\/business\/online-mobile-banking-help\/autobooks\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Business Credit Cards","url":"https:\/\/www.bylinebank.com\/business\/credit-cards\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Merchant Services","url":"https:\/\/www.bylinebank.com\/commercial\/treasury-management\/merchant-services\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Commercial","url":"https:\/\/www.bylinebank.com\/commercial\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Financing & Loans","url":"https:\/\/www.bylinebank.com\/commercial\/commercial-loans\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Treasury Management","url":"https:\/\/www.bylinebank.com\/commercial\/treasury-management\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Specialty Lending","url":"#"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"SBA Loans","url":"https:\/\/www.bylinebank.com\/small-business-capital\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"USDA Loans","url":"https:\/\/www.bylinebank.com\/small-business-capital\/sbc-usda-loans\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Commercial Real Estate","url":"https:\/\/www.bylinebank.com\/commercial\/commercial-real-estate\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Equipment Financing","url":"https:\/\/www.bylinebank.com\/commercial\/equipment-financing\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Sponsor Finance","url":"https:\/\/www.bylinebank.com\/commercial\/sponsor-finance\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Life insurance Premium Finance","url":"https:\/\/www.bylinebank.com\/commercial\/life-insurance-premium-finance\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Wealth","url":"https:\/\/www.bylinebank.com\/wealth\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Financial Planning","url":"https:\/\/www.bylinebank.com\/wealth\/financial-planning\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Asset Management","url":"https:\/\/www.bylinebank.com\/wealth\/asset-management\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Trust Services","url":"https:\/\/www.bylinebank.com\/wealth\/trust-services\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Login to Trust Reporter","url":"https:\/\/ca.trustreporter.com\/TRv4\/?bankabvr=FBTE"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Open an Account","url":"https:\/\/www.bylinebank.com\/open-an-account?utm_source=byline&#038;utm_medium=referral&#038;utm_campaign=oao_launch&#038;utm_content=open_online_cta"}]}</script><!-- / site-navigation-element Schema optimized by Schema Pro --><script type='text/javascript' src='https://www.bylinebank.com/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' id='oms_alerts-js-extra'>
+/* <![CDATA[ */
+var oms_alerts_object = {"ajax_admin_url":"https:\/\/www.bylinebank.com\/wp-admin\/admin-ajax.php","current_post_id":"8632"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/oms-alerts/js/oms-alerts.js' id='oms_alerts-js'></script>
+<script type='text/javascript' src='https://fast.wistia.net/assets/external/E-v1.js' id='wistia-api-js'></script>
+<script type='text/javascript' async="async" src='https://player.vimeo.com/api/player.js' id='vimeo-api-js'></script>
+<script type='text/javascript' async="async" src='https://www.youtube.com/iframe_api' id='youtube-api-js'></script>
+<script type='text/javascript' id='oms_gutenblocks-js-extra'>
+/* <![CDATA[ */
+var oms_gutenblocks = {"scroll_offset":"120"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/oms-gutenblocks/js/oms-gutenblocks.js' id='oms_gutenblocks-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/oms-gutenblocks/js/oms-gutenblocks-video.js' id='oms_gutenblocks_video-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/js/min/jquery.nova.js' id='nova-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js' id='popper-js'></script>
+<script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/js/floating-labels.js' id='floating-labels-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/js/min/jquery.solarBox.js' id='solarBox-theme-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/js/min/carousel-swipe.js' id='-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-includes/js/hoverIntent.min.js' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/megamenu/js/maxmegamenu.js' id='megamenu-js'></script>
+<script type='text/javascript' id='orbitJS-js-extra'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/www.bylinebank.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/themes/orbit-media-bootstrap4/resources/js/min/custom.js' id='orbitJS-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/megamenu-pro/assets/public.js' id='megamenu-pro-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.bylinebank.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js' id='tablepress-datatables-js'></script>
+<script type="text/javascript">
+jQuery(function($){
+$('#tablepress-16').dataTable({"stripeClasses":["even","odd"],"ordering":false,"paging":false,"searching":false,"info":false});
+$('#tablepress-11').dataTable({"stripeClasses":["even","odd"],"ordering":false,"paging":false,"searching":false,"info":false});
+$('#tablepress-6').dataTable({"order":[],"orderClasses":false,"stripeClasses":["even","odd"],"pagingType":"simple"});
+});
+</script>			<script type="text/javascript" id="wpsp-script-frontend"></script>
+			<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.bylinebank.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

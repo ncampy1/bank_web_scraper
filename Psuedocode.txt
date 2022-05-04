@@ -1,0 +1,135 @@
+// Nicklaus Campanella
+// CSCE 306; Spring 2022
+// Portfolio Project - Psuedocode.txt
+
+Driver file:
+#include <iostream>
+#include Bank
+#include Byline
+#include Repebank
+#include Lakeside
+
+int main()
+
+
+
+Bank file - header:
+class Bank
+    public:
+        Bank()
+        get cpr()
+        get cd()
+        get annfee()
+        get assets()
+    private:
+        int cpr
+        int cd
+        int annfee
+        int assets
+
+Bank file - cpp:
+Bank::Bank()
+
+get cpr() {return cpr}
+get cd() {return cd}
+get annfee() {return annfee}
+get assests() {retrun assets}
+
+set cpr(cprrate) {cpr = cprate}
+set cd(cdrate) {cd = cdrate}
+set annfee(annfeerate) {annfee = annfeerate}
+set assets(assetetsnum) {assets = assetsnum}
+
+Byline file - header:
+#include iostream
+#include Bank.h
+using namespace std
+
+class Byline : public Bank
+    public:
+        Byline(string)
+        int get_data()
+        int get_branches()
+
+        void set_branches(int)
+
+    private:
+        int branches
+
+Byline file - cpp:
+using namespace std
+#include iostream
+#include Byline.h
+
+Byline::Byline(string loc)
+
+int Byline::get_data()
+
+int Byline::get_branches()
+    return branches
+
+void Byline::set_branches(int branchnum)
+    branches = branchnum
+
+Repebank file - header:
+#include iostream
+#include Bank.h
+using namespace std
+
+class Repebank : public Bank
+    public:
+        Repebank(string)
+        int get_data()
+        int get_branches()
+
+        void set_branches(int)
+
+    private:
+        int branches
+
+Repebank file - cpp:
+using namespace std
+#include iostream
+#include Repebank.h
+
+Repebank::Repebank(string loc)
+
+int Repebank::get_data()
+
+int Repebank::get_branches()
+    return branches
+
+void Repebank::set_branches(int branchnum)
+    branches = branchnum
+
+Lakeside file - header:
+#include iostream
+#include Bank.h
+using namespace std
+
+class Lakeside : public Bank
+    public:
+        Lakeside(string)
+        int get_data()
+        int get_branches()
+
+        void set_branches(int)
+
+    private:
+        int branches
+
+Lakeside file - cpp:
+using namespace std
+#include iostream
+#include Byline.h
+
+Lakeside::Lakeside(string loc)
+
+int Lakeside::get_data()
+
+int Lakeside::get_branches()
+    return branches
+
+void Lakeside::set_branches(int branchnum)
+    branches = branchnum
+
